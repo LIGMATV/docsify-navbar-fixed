@@ -15,7 +15,7 @@ You can download the navbar-fixed.css <a href="https://rawcdn.githack.com/LIGMAT
 Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
 
 ## Configuration
-You can configure your navbar preferences in ``_navbar.md`` file.
+You can configure your navbar preferences in ``_navbar.md`` file. [**Example**](https://raw.githubusercontent.com/LIGMATV/docsify-navbar-fixed/main/docs/_navbar.md)
 
 !> You need to add ``loadNavbar: true`` to your index.html script, so the navbar will work. [Learn more](https://docsify.js.org/#/configuration?id=loadnavbar)
 
