@@ -6,12 +6,12 @@
 
 ```index.html
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-<link rel="stylesheet" href="//rawcdn.githack.com/LIGMATV/docsify-navbar-fixed/main/navbar-fixed.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-navbar-fixed/navbar-fixed.css">
 ```
 
 > [!NOTE]
 > Just to be safe, please use your downloaded version.
-> You can download the navbar-fixed.css <a href="https://rawcdn.githack.com/LIGMATV/docsify-navbar-fixed/main/navbar-fixed.css">here</a>.
+> You can download the navbar-fixed.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-navbar-fixed/navbar-fixed.css">here</a>.
 
 Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
 
