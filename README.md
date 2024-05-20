@@ -1,6 +1,11 @@
-# Docsify Navbar Fixed
+# Docsify Navbar Fixed [Preview](https://docsify-navbar-fixed.vercel.app/)
 
 > A new always on top customizable and pretty navigation bar for your docs.
+
+| ![Screenshot Capture - 2024-05-20 - 16-35-42](https://github.com/LIGMATV/docsify-navbar-fixed/assets/143163098/a1123575-832e-49b1-8a26-c1c86b7b8a69) |
+|:---:|
+| Example, try it [here](https://docsify-navbar-fixed.vercel.app/) |
+
 
 ## Installation
 
