@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
+> https://gitlab.com/LIGMATV/docsify-navbar-fixed
+
 # Docsify Navbar Fixed [Preview](https://docsify-navbar-fixed.vercel.app/)
 
 > A new always on top customizable and pretty navigation bar for your docs.
